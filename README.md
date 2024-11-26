@@ -38,7 +38,7 @@ A simple web app to count and track the number of passengers entering train stat
 - **assest/**: Contains the background image used in the app.
 
 ## Preview
-![App Screenshot](./assets/samp_project.png)
+![App Screenshot](assest/samp_project.png)
 
 ## Future Enhancements
 - Add the ability to delete or edit saved entries.
