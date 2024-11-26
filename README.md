@@ -49,5 +49,5 @@ A simple web app to count and track the number of passengers entering train stat
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-##Contact
+## Contact
 Created by [Yogesh](https://github.com/Yoki-28) - feel free to reach out!
