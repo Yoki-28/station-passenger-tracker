@@ -17,7 +17,7 @@ A simple web app to count and track the number of passengers entering train stat
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/station-passenger-tracker.git
+   git clone https://github.com/Yoki-28/station-passenger-tracker.git
 2. Navigate to the project directory:
    ```bash
    cd station-passenger-tracker
